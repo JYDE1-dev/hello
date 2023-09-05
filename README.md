@@ -50,8 +50,8 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://twitter.com/symplyjide?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://https://www.linkedin.com/in/alayande-olajide-970041235/" target="blank">
-<a href="olajidealayande72@gmail.com" target="blank"></a>
+<a href="https://https://www.linkedin.com/in/alayande-olajide-970041235/" target="blank">LinkedIn Profile</a>
+<a href="olajidealayande72@gmail.com" target="blank">Gmail</a>
 <a href="https://api.whatsapp.com/send?phone=+2349155583218" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
